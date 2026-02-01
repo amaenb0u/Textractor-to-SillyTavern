@@ -1,6 +1,6 @@
 # Textractor → SillyTavern Bridge
 
-Listens for input from Textractor WebSocket hook as a client and sends it to SillyTavern as `/send` commands. You will need to have [Textractor](https://github.com/Artikash/Textractor) installed together with [textractor_websocket](https://github.com/kuroahna/textractor_websocket/) plugin.
+Listens for input from Textractor WebSocket hook as a client and sends it to SillyTavern as `/send` commands. You will need to have [Textractor](https://github.com/Artikash/Textractor) installed together with [textractor_websocket](https://github.com/kuroahna/textractor_websocket/) plugin. You will need to have python installed on your machine to run the script.
 
 ## Setup
 1. Create a folder where you want to have the tool
